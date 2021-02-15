@@ -16,5 +16,5 @@ class fourth:
         except:
             print('Bandykite iš naujo!')
 
-f = fourth()
-f.symbol_replacement()
+fo = fourth()
+fo.symbol_replacement()
