@@ -15,6 +15,5 @@ class third:
             print(str(number_dictionary))
         except:
             print('Bandykite iš naujo!')
-
 t = third()
 t.get_input()
